@@ -2987,7 +2987,7 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <message>
         <location filename="../main.qml" line="417"/>
         <source>Unlocked balance (~%1 min)</source>
-        <translation>Saldo desbloqueado (~%1 minuto)</translation>
+        <translation>Saldo desbloqueado (~%1 minutos)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="417"/>
